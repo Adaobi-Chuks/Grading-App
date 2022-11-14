@@ -1,2 +1,2 @@
-# Grading-App-API
+# Grading-App
 A grading application built with Spring Boot
